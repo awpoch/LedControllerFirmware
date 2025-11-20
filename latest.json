@@ -1,0 +1,6 @@
+{
+  "version": "${PROJECT_VER}",
+  "build": "$(date -Iseconds)",
+  "project": "esp32-s3-lighting",
+  "url": "${RAW_URL}"
+}
