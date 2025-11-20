@@ -1,6 +1,6 @@
 {
-  "version": "0.0.0-a5d8ab9",
-  "build": "2025-11-20T04:03:02+00:00",
+  "version": "0.0.0-05f9f11",
+  "build": "2025-11-20T04:13:01+00:00",
   "project": "esp32-s3-lighting",
   "url": "https://raw.githubusercontent.com/awpoch/LedControllerFirmware/main/latest.bin"
 }
